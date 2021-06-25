@@ -1,2 +1,2 @@
 language="NodeJS"
-run="npm start" 
+run="node lavalink.js" 
